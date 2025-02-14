@@ -176,7 +176,7 @@ msgstr "小部件"
 
 #: ../lib/DragManager.vala:477 ../lib/Items/PlaceholderDockItem.vala:51
 msgid "Drop to add to dock"
-msgstr "拖动图标添加到程序坞上"
+msgstr "拖动到程序坞上"
 
 #: ../lib/Factories/AbstractMain.vala:422 ../src/Main.vala:75
 msgid "translator-credits"
@@ -206,7 +206,7 @@ msgstr "关闭(_C)"
 #: ../lib/Items/ApplicationDockItem.vala:492
 #, c-format
 msgid "Drop to open with %s"
-msgstr "拖放在此以用 %s 打开"
+msgstr "拖放在此用 %s 打开"
 
 #: ../lib/Items/FileDockItem.vala:323
 msgid "_Open in File Browser"
